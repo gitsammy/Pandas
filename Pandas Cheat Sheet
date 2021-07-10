@@ -2,3 +2,6 @@ Count Distinct Values of a Pandas DataFrame
 # pandas.unique(values) - returns numpy.ndarray or Extension Array
 # Dataframe.nunique() - returns Series
 # Series.value_counts() - Series
+
+Create a DataFrame from a Pandas Series
+
